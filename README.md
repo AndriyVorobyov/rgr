@@ -16,8 +16,8 @@
 
  Дані у variables.tf:
 
-```
+
 ![image](https://user-images.githubusercontent.com/132616149/236605985-e8e59db4-9207-4796-959b-8b4179cf44bf.png)
-```
+
 
 ![image](https://user-images.githubusercontent.com/132616149/236606005-5405b364-27ff-4474-9307-10023f45eaf2.png)
